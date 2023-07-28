@@ -1,0 +1,33 @@
+
+{"level":"info","message":"---------------------------","service":"user-service"}
+{"level":"info","message":"Aditya","service":"user-service"}
+{"level":"info","message":"Karthik","service":"user-service"}
+{"level":"info","message":"---------------------------","service":"user-service"}
+{"level":"error","name":"Query Error","service":"user-service"}
+{"level":"info","message":"-----------------------------------------------------------","service":"user-service"}
+{"level":"info","message":"CultureAmp","service":"user-service"}
+{"level":"info","message":"Liively","service":"user-service"}
+{"level":"info","message":"-----------------------------------------------------------","service":"user-service"}
+{"level":"info","message":"CultureAmp","service":"user-service"}
+{"level":"info","message":"Liively","service":"user-service"}
+{"level":"info","message":"------------------------------------------------------------","service":"user-service"}
+{"level":"info","message":"Data is imported into database succesfully","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"All rows have been deleted from all the tables.","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"Data is imported into the database","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"error","name":"Unknown Error","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"All rows have been deleted from all the tables.","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"Data is imported into the database","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"All rows have been deleted from all the tables.","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
+{"level":"info","message":"Data is imported into the database","service":"user-service"}
+{"level":"info","message":"-------------------------------------------","service":"user-service"}
