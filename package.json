@@ -21,6 +21,7 @@
     "mysql2": "^3.5.2",
     "nconf": "^0.12.0",
     "properties-reader": "^2.2.0",
-    "sequelize": "^6.32.1"
+    "sequelize": "^6.32.1",
+    "winston": "^3.10.0"
   }
 }
