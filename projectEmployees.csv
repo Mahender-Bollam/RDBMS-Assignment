@@ -1,0 +1,3 @@
+employeeId, projectId, contributionPercentage, role
+2, 100, 30, Technical Lead
+1, 101, 40, Business Analyst
